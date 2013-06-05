@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoaGalinha", "VoaGalinha\VoaGalinha\VoaGalinha.csproj", "{A5DD75E3-5391-405A-9870-205CAA26BC33}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "VoaGalinhaContent", "VoaGalinha\VoaGalinhaContent\VoaGalinhaContent.contentproj", "{2DFB223C-96A1-463F-8018-1ED532193CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DD75E3-5391-405A-9870-205CAA26BC33}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A5DD75E3-5391-405A-9870-205CAA26BC33}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{A5DD75E3-5391-405A-9870-205CAA26BC33}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{A5DD75E3-5391-405A-9870-205CAA26BC33}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{A5DD75E3-5391-405A-9870-205CAA26BC33}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{A5DD75E3-5391-405A-9870-205CAA26BC33}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{2DFB223C-96A1-463F-8018-1ED532193CC3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{2DFB223C-96A1-463F-8018-1ED532193CC3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

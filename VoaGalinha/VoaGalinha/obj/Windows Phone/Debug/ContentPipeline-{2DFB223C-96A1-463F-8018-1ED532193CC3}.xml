@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Imagens\UI.spritefont</Source>
+      <Name>Imagens\UI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\UI.xnb</Output>
+      <Time>2012-09-09T18:14:39.9037701-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagens\plataforma.png</Source>
+      <Name>Imagens\plataforma</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\plataforma.xnb</Output>
+      <Time>2012-11-04T22:11:01.676606-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagens\fim.png</Source>
+      <Name>Imagens\fim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\fim.xnb</Output>
+      <Time>2012-09-26T19:47:58.7172245-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagens\SpritesOvo.png</Source>
+      <Name>Imagens\SpritesOvo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\SpritesOvo.xnb</Output>
+      <Time>2012-11-04T20:37:42.317341-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagens\FundoCenario.png</Source>
+      <Name>Imagens\FundoCenario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\FundoCenario.xnb</Output>
+      <Time>2012-11-04T02:56:43.2989636-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagens\fundoInicio.png</Source>
+      <Name>Imagens\fundoInicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\fundoInicio.xnb</Output>
+      <Time>2012-11-04T20:40:15.9241268-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagens\cabecalho.png</Source>
+      <Name>Imagens\cabecalho</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\cabecalho.xnb</Output>
+      <Time>2012-11-04T20:47:44.135763-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagens\plataformaInicio.png</Source>
+      <Name>Imagens\plataformaInicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\plataformaInicio.xnb</Output>
+      <Time>2012-11-04T22:47:16.7290119-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagens\plataformaFim.png</Source>
+      <Name>Imagens\plataformaFim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\Imagens\plataformaFim.xnb</Output>
+      <Time>2012-11-04T22:49:53.4539761-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2DFB223C-96A1-463F-8018-1ED532193CC3}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinhaContent\</RootDirectory>
+      <LoggerRootDirectory>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\01 Fábio\Faculdade\TCC\VoaGalinha\VoaGalinha\VoaGalinha\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-07T14:09:03.6128435-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
